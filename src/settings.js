@@ -1,5 +1,5 @@
 module.exports = {
-  title: '家政服务平台',
+  title: '帮帮社区服务平台',
 
   /**
    * @type {boolean} true | false
